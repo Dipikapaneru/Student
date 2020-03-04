@@ -5,11 +5,10 @@ public class studentdetail {
 		String name="Dipika";
 		String lastname="Paneru";
 		int age=28;
-		String color="fair";
 		System.out.println(name);
 		System.out.println(lastname);
 		System.out.println(age);
-		System.out.println(color);
+
 	}
 
 }
